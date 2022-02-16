@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:ygk1/BNN-Ibex.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
