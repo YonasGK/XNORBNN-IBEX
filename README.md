@@ -1,27 +1,3 @@
-﻿
-
-**Energy-Efficient XNOR-COUNT Convolution based Embedded**
-
-**Processor System for Edge Inference**
-
-Yonas Girma Kelemwork
-
-20170758
-
-12/7/2020
-
-Advisor: JooYoung Kim(Ph.D.) Assistant Professor,
-
-School of Electrical Engineering
-
-School of Electrical Engineering
-
-Korea Advanced Institute of Science and Technology(KAIST)
-
-
-
-
-
 # IBEX-BCX: A Low Cost RISC-V Processor with Bit-Count Instruction Extension for Edge Inference on IoT Devices
 
 **Abstract**: Deep Neural Networks that are have multiple neural network layers are now ubiquitous for a
